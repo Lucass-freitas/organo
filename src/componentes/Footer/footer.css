@@ -1,0 +1,21 @@
+.footer {
+    background: #6278f7 url(/public/imagens/fundo.png) no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 128px;
+}
+
+.footer .redes img {
+    width: 24px;
+    padding: 15px;
+}
+
+.footer .logo img {
+    width: 120px;
+}
+
+.footer .alura h3 {
+    color: #fff;
+    font-weight: 400;
+}
